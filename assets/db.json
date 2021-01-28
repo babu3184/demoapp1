@@ -1,0 +1,21 @@
+{
+    "User":[
+        {
+            "id":1,
+            "fname":"Babu",
+            "lname":"Deshmukh",
+            "email":"babudeshmukh@gmail.com",
+            "number":9561234040,
+            "age":45,
+            "state":"Maharashtra",
+            "country":"India",
+            "address":"home",
+            "hadress1":"home1",
+            "haddress2":"home2",
+            "caddress1":"dotphi1",
+            "caddress2":"dotphi2",
+            "subscribe":"true"
+
+        }
+    ]
+}
